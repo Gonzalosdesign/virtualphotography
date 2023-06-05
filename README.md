@@ -1,4 +1,5 @@
 # virtualphotography
-Galería de fotografías virtuales
-HTML + CSS
-site is live at https://gonzalosdesign.github.io/virtualphotography/
+- Virtual photography gallery.
+- Perdonal project
+- HTML + CSS
+- Site is live at https://gonzalosdesign.github.io/virtualphotography/
